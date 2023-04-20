@@ -1,3 +1,7 @@
+---
+title: TEA
+enableToc: true
+---
 
 # [Full Text Guide](https://docs.google.com/document/d/1wKE4Hj7asv5PsJT4w4mL5chDRMTtgUbdPCsJWqGsuJk/edit#)
 
