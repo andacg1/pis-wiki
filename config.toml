@@ -1,4 +1,4 @@
-baseURL = "https://andacg1.github.io/pis-wiki/"
+baseURL = "https://pis.bio/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
