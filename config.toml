@@ -1,4 +1,4 @@
-baseURL = "https://pis.bio/"
+baseURL = "https://www.pis.bio/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
