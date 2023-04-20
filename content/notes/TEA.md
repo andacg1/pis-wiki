@@ -1,11 +1,24 @@
 ---
 title: TEA
-enableToc: true
+enableToc: false
 ---
 
 # [Full Text Guide](https://docs.google.com/document/d/1wKE4Hj7asv5PsJT4w4mL5chDRMTtgUbdPCsJWqGsuJk/edit#)
 
+
 # [Living Liquid Toolbox](https://ff14.toolboxgaming.space/?id=830419115443951&preview=1#6)
+<iframe  
+width="800" 
+height="800"
+src="https://ff14.toolboxgaming.space/?id=830419115443951&preview=1#6" frameborder="0"
+style="width: 100%; height: 1450; border: 0;"
+>
+</iframe>
+
+
+
+
+
 
 # [Limit Cut Toolbox](https://ff14.toolboxgaming.space/?id=240411819443951&preview=1)
 
