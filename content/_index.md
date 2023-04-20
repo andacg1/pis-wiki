@@ -5,6 +5,6 @@ enableToc: true
 
 # Strats Wiki
 
-# TEA
+# TEA  
 [[notes/TEA]]
 
