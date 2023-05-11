@@ -1,4 +1,4 @@
-- [ ] ---
+---
 title: TEA
 enableToc: false
 ---
@@ -16,6 +16,7 @@ enableToc: false
 ### [Brute Justice & Cruise Chaser](https://ff14.toolboxgaming.space/?id=340414049443951&preview=1#1)
 
 ### [Prime Alexander](https://ff14.toolboxgaming.space/?id=105865886660661&preview=1)
+
 ### [Prime Alexander (w/ Icons)](https://ff14.toolboxgaming.space/?id=463281492325761&preview=1)
 
 ### [Wormhole Formation](https://ff14.toolboxgaming.space/?id=236244852760461&preview=1)
